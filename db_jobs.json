@@ -1,0 +1,226 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Google Internship Program",
+      "logo": "https://picsum.photos/200",
+      "companyName": "Google",
+      "position": "Intern Developer",
+      "description": "This is an internship opportunity from Google",
+      "salary": "$150,000",
+      "location": "Redmond, WA"
+    },
+    {
+      "id": 2,
+      "title": "Facebook Junior Development Program",
+      "logo": "https://picsum.photos/200",
+      "companyName": "Facebook",
+      "position": "Junior Developer",
+      "description": "This is a junior developer recruitment from Facebook",
+      "salary": "$150,000",
+      "location": "Redmond, WA",
+      "isFavorite": true
+    },
+    {
+      "id": 3,
+      "title": "Microsoft Senior Development Program",
+      "logo": "https://picsum.photos/200",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft",
+      "salary": "$150,000",
+      "location": "Redmond, WA",
+      "isFavorite": true
+    },
+    {
+      "id": 4,
+      "title": "Microsoft Senior Development Program",
+      "logo": "https://picsum.photos/200",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft",
+      "salary": "$150,000",
+      "location": "Redmond, WA"
+    },
+    {
+      "id": 5,
+      "title": "Microsoft Senior Development Program",
+      "logo": "https://picsum.photos/200",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft",
+      "salary": "$150,000",
+      "location": "Redmond, WA"
+    },
+    {
+      "id": 6,
+      "title": "Microsoft Senior Development Program",
+      "logo": "https://picsum.photos/200",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft",
+      "salary": "$150,000",
+      "location": "Redmond, WA"
+    },
+    {
+      "id": 7,
+      "title": "Microsoft Senior Development Program",
+      "logo": "https://picsum.photos/200",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft",
+      "salary": "$150,000",
+      "location": "Redmond, WA"
+    },
+    {
+      "id": 8,
+      "title": "Microsoft Senior Development Program",
+      "logo": "https://picsum.photos/200",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft",
+      "salary": "$150,000",
+      "location": "Redmond, WA"
+    },
+    {
+      "id": 9,
+      "title": "Microsoft Senior Development Program",
+      "logo": "https://picsum.photos/200",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft",
+      "salary": "$150,000",
+      "location": "Redmond, WA"
+    },
+    {
+      "id": 10,
+      "title": "Microsoft Senior Development Program",
+      "logo": "https://picsum.photos/200",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft",
+      "salary": "$150,000",
+      "location": "Redmond, WA"
+    },
+    {
+      "id": 11,
+      "title": "Microsoft Senior Development Program",
+      "logo": "https://picsum.photos/200",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft",
+      "salary": "$150,000",
+      "location": "Redmond, WA"
+    },
+    {
+      "id": 12,
+      "title": "Microsoft Senior Development Program",
+      "logo": "https://picsum.photos/200",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft",
+      "salary": "$150,000",
+      "location": "Redmond, WA"
+    },
+    {
+      "id": 13,
+      "title": "Microsoft Senior Development Program",
+      "logo": "https://picsum.photos/200",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft",
+      "salary": "$150,000",
+      "location": "Redmond, WA"
+    },
+    {
+      "id": 14,
+      "title": "Microsoft Senior Development Program",
+      "logo": "https://picsum.photos/200",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft",
+      "salary": "$150,000",
+      "location": "Redmond, WA"
+    },
+    {
+      "id": 15,
+      "title": "Microsoft Senior Development Program",
+      "logo": "https://picsum.photos/200",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft",
+      "salary": "$150,000",
+      "location": "Redmond, WA"
+    },
+    {
+      "id": 16,
+      "title": "Microsoft Senior Development Program",
+      "logo": "https://picsum.photos/200",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft",
+      "salary": "$150,000",
+      "location": "Redmond, WA"
+    },
+    {
+      "id": 17,
+      "title": "Microsoft Senior Development Program",
+      "logo": "https://picsum.photos/200",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft",
+      "salary": "$150,000",
+      "location": "Redmond, WA"
+    },
+    {
+      "id": 18,
+      "title": "Microsoft Senior Development Program",
+      "logo": "https://picsum.photos/200",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft",
+      "salary": "$150,000",
+      "location": "Redmond, WA"
+    },
+    {
+      "id": 19,
+      "title": "Microsoft Senior Development Program",
+      "logo": "https://picsum.photos/200",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft",
+      "salary": "$150,000",
+      "location": "Redmond, WA"
+    },
+    {
+      "id": 20,
+      "title": "Microsoft Senior Development Program",
+      "logo": "https://picsum.photos/200",
+      "companyName": "Microsoft",
+      "position": "Senior Developer",
+      "description": "This is a junior developer recruitment from Microsoft",
+      "salary": "$150,000",
+      "location": "Redmond, WA"
+    },
+    {
+      "companyName": "Pinterest",
+      "logo": "https://html.creativegigstf.com/khuj/khuj/images/slider/slider-4.png",
+      "title": "Amazon Operation Manger",
+      "position": "Junior Developer",
+      "location": "Amazon",
+      "salary": "50000",
+      "description": "hellodjkfhsadjkfdsafdsfasdfsdfasdf",
+      "id": 1704373661720
+    },
+    {
+      "companyName": "Google",
+      "logo": "https://html.creativegigstf.com/khuj/khuj/images/slider/slider-1.png",
+      "title": "DevOps",
+      "position": "Mid Level",
+      "location": "Africa",
+      "salary": "100000",
+      "description": "lasdhfjasdfliuasdglifasdgflias",
+      "id": 1704373661721
+    }
+  ]
+}
